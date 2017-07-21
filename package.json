@@ -1,0 +1,19 @@
+{
+  "name": "css-architect",
+  "version": "1.0.0",
+  "description": "## ARCHITECTURE ``` link:css css/home/home.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "gulp"
+  ],
+  "author": "hirokisan",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

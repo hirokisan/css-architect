@@ -1,0 +1,6 @@
+div {
+  margin: 0 auto; }
+  div p {
+    padding: 20px; }
+    div p span {
+      font-color: red; }
